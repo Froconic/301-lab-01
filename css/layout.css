@@ -1,0 +1,61 @@
+.shell {
+    border: solid 1px rgb(48, 48, 48);
+    background-color: rgb(140, 140, 140);
+    float: left;
+}
+
+.box-1 {
+    width: 480px;
+    height: 75px;
+    box-sizing: border-box;
+}
+
+.box-2 {
+    width: 480px;
+    height: 150px;
+    box-sizing: border-box;
+}
+
+.box-3 {
+    width: 480px;
+    height: 125px;
+    box-sizing: border-box;
+}
+
+.box-4 {
+    width: 480px;
+    height: 125px;
+    box-sizing: border-box;
+}
+
+.box-5 {
+    width: 240px;
+    height: 250px;
+    box-sizing: border-box;
+}
+
+.box-6 {
+    /* float: right; */
+    width: 240px;
+    height: 250px;
+    box-sizing: border-box;
+}
+
+.box-7 {
+    width: 238px;
+    height: 250px;
+    box-sizing: border-box;
+}
+
+.box-8 {
+    /* float: right; */
+    width: 238px;
+    height: 250px;
+    box-sizing: border-box;
+}
+
+.box-9 {
+    width: 480px;
+    height: 80px;
+    box-sizing: border-box;
+}
