@@ -30,7 +30,7 @@
 }
 
 .box-5 {
-    width: 238px;
+    width: 240px;
     height: 250px;
     box-sizing: border-box;
 }
@@ -43,14 +43,14 @@
 }
 
 .box-7 {
-    width: 238px;
+    width: 240px;
     height: 250px;
     box-sizing: border-box;
 }
 
 .box-8 {
     /* float: right; */
-    width: 238px;
+    width: 240px;
     height: 250px;
     box-sizing: border-box;
 }
@@ -59,12 +59,6 @@
     width: 480px;
     height: 80px;
     box-sizing: border-box;
-}
-
-.clearfix::after {
-    content: "";
-    clear: both;
-    display: table;
 }
 
 p {
