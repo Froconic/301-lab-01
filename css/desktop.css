@@ -1,9 +1,4 @@
-@media (min-width: 767px) {
-  .shell {
-    border: solid 1px rgb(48, 48, 48);
-    background-color: rgb(140, 140, 140);
-    position: relative
-  }
+@media screen (min-width: 768px) {
 
   .box-1 {
     width: 960px;
