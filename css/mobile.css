@@ -1,0 +1,68 @@
+body {
+  height: 767px;
+  width: 100%;
+}
+
+.box-shell {
+    float: left;
+    width: 480px;
+}
+
+.box-a {
+    width: 480px;
+    height: 75px;
+    box-sizing: border-box;
+}
+
+.box-b {
+    width: 480px;
+    height: 150px;
+    box-sizing: border-box;
+}
+
+.box-c {
+    width: 480px;
+    height: 125px;
+    box-sizing: border-box;
+}
+
+.box-d {
+    width: 480px;
+    height: 125px;
+    box-sizing: border-box;
+}
+
+.box-e {
+    float: left;
+    width: 50%;
+    height: 250px;
+    box-sizing: border-box;
+}
+
+.box-f {
+    float: left;
+    width: 50%;
+    height: 250px;
+    box-sizing: border-box;
+}
+
+.box-g {
+    float: left;
+    width: 50%;
+    height: 250px;
+    box-sizing: border-box;
+}
+
+.box-h {
+    float: left;
+    width: 50%;
+    height: 250px;
+    box-sizing: border-box;
+}
+
+.box-i {
+    float: left;
+    width: 480px;
+    height: 80px;
+    box-sizing: border-box;
+}
