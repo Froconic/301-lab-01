@@ -5,6 +5,11 @@
     position: relative
 }
 
+.box-shell {
+    float: left;
+    width: 480px;
+}
+
 .box-a {
     width: 480px;
     height: 75px;
@@ -30,32 +35,35 @@
 }
 
 .box-e {
-    width: 240px;
+    float: left;
+    width: 50%;
     height: 250px;
     box-sizing: border-box;
 }
 
 .box-f {
-    /* float: right; */
-    width: 240px;
+    float: left;
+    width: 50%;
     height: 250px;
     box-sizing: border-box;
 }
 
 .box-g {
-    width: 240px;
+    float: left;
+    width: 50%;
     height: 250px;
     box-sizing: border-box;
 }
 
 .box-h {
-    /* float: right; */
-    width: 240px;
+    float: left;
+    width: 50%;
     height: 250px;
     box-sizing: border-box;
 }
 
 .box-i {
+    float: left;
     width: 480px;
     height: 80px;
     box-sizing: border-box;
